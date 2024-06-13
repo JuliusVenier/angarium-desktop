@@ -19,7 +19,8 @@ async function loadConfig() {
 const createWindow = async () => {
     const win = new BrowserWindow({
         width: 800,
-        height: 600
+        height: 600,
+        autoHideMenuBar: true,
     })
 
     try {
