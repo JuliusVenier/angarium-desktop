@@ -1,5 +1,5 @@
-# angarium
-Angarium-Desktop ist eine fortschrittliche Desktop-Anwendung, die auf der Electron-Plattform basiert und eine benutzerfreundliche und leistungsstarke Benutzeroberfläche bietet.
+# angarium-desktop
+angarium-Desktop ist eine fortschrittliche Desktop-Anwendung, die auf der Electron-Plattform basiert und eine benutzerfreundliche und leistungsstarke Benutzeroberfläche bietet.
 
 ## Verwandte Projekte
 - [angarium](https://github.com/JuliusVenier/angarium)
